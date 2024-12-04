@@ -1,2 +1,2 @@
 # dummy-go-api
-a dummy api written in golang
+Dummy API written in Go for Heroku mock build

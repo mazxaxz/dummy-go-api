@@ -1,0 +1,12 @@
+{
+  "name": "dummy go api",
+  "description": "dummy go api for heroku mock deployment",
+  "keywords": [
+    "dummy",
+    "heroku",
+    "api",
+    "go"
+  ],
+  "website": "https://github.com/mazxaxz/dummy-go-api",
+  "repository": "https://github.com/mazxaxz/dummy-go-api"
+}
