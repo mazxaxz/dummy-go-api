@@ -21,7 +21,7 @@ func main() {
 
 	slog.SetDefault(slog.New(slog.NewTextHandler(os.Stdout, nil)))
 
-	port := getEnv("HTTP_PORT", "8080")
+	port := getEnv("PORT", "8080")
 
 	srv := &http.Server{
 		Addr:              fmt.Sprintf(":%v", port),
